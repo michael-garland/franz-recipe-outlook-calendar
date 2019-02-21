@@ -1,0 +1,13 @@
+{
+  "id": "outlook-calendar",
+  "name": "Outlook.com Calendar",
+  "version": "1.0.0",
+  "description": "Outlook.com Calendar",
+  "main": "index.js",
+  "author": "Michael Garland <michael.garland@live.com>",
+  "repository": "https://github.com/michael-garland/franz-recipe-outlook-calendar",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://outlook.office.com/calendar"
+  }
+}
